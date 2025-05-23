@@ -1,0 +1,32 @@
+/*
+    Basic Title
+*/
+@font-face {
+  font-family: "primary";
+  src: url(../fonts/Inter_18pt-Black.ttf);
+}
+.primary {
+  font-family: "primary";
+}
+
+/*
+    Basic Secondary Importance Text
+*/
+@font-face {
+  font-family: "secondary";
+  src: url(../fonts/Inter_18pt-Medium.ttf);
+}
+.secondary {
+  font-family: "secondary";
+}
+
+/*
+    Basic Normal Text
+*/
+@font-face {
+  font-family: "text";
+  src: url(../fonts/Inter_18pt-Regular.ttf);
+}
+.text {
+  font-family: "text";
+}
